@@ -37,10 +37,6 @@ public class loginactivity extends AppCompatActivity {
     private FirebaseAuth authprofile;
 
 
-
-
-
-
     private static final String TAG = "loginactivity";
 
     @Override
