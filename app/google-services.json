@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718129500036",
+    "project_id": "registration-form-filling-app",
+    "storage_bucket": "registration-form-filling-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718129500036:android:a832e6dc348ca07e3f97d1",
+        "android_client_info": {
+          "package_name": "com.example.registrationformfillingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718129500036-ookddujgdlbs12u4bstd795odoq5tc18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaxr2C672RlsUgEvNzjZVOwWPu8DhQakc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718129500036-ookddujgdlbs12u4bstd795odoq5tc18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
